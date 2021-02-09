@@ -1,0 +1,11 @@
+.jumbotron {
+    background: url("../assets/ChaniaLighthouse.jpg") center center;
+    background-size: cover;
+    color: rgb(238, 238, 238);
+    height: 50vh;
+}
+
+#jumbotron-text {
+    margin-top: 60px;
+}
+
