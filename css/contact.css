@@ -2,3 +2,13 @@
     background: rgb(34, 32, 32);
     color: rgb(235, 235, 235);
 }
+
+.socialLink{
+    margin-right: 10px;
+    color: rgb(235, 235, 235);
+}
+
+.socialLink:hover{
+    color: rgb(94, 92, 92);
+    text-decoration: none;
+}

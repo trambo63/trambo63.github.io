@@ -21,6 +21,7 @@
 .nav-link {
     color: rgb(34, 32, 32);
     transition: 0.5s;
+    height: 100%;
 }
 
 .nav-link:hover {
@@ -34,7 +35,7 @@
 }
 
 .navbar.sticky .nav-link:hover {
-    color: rgb(235, 235, 235);
+    color: rgb(94, 92, 92);
 }
 
 .navMenu-mobile{
